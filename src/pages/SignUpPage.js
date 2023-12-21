@@ -52,7 +52,7 @@ function SignUpPage() {
       try {
         // Make a POST request to the signup endpoint of your Flask backend
         const response = await axios.post(
-          "http://127.0.0.1:5000/signup",
+          "http://20.198.16.0:8000/signup",
           {
             username,
             password,
