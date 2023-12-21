@@ -16,7 +16,7 @@ function ChatHistoryModal({ isVisible, onClose }) {
       const token = localStorage.getItem("token");
       console.log("Token-", token);
       axios
-        .get("http://127.0.0.1:5000/conversation-history", {
+        .get("http://20.198.16.0:8000/conversation-history", {
           headers: {
             Auth: token,
           },
