@@ -122,7 +122,7 @@ function ChatPage() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:5000/ask",
+        "http://20.198.16.0:8000/ask",
         {
           question: text,
         },
