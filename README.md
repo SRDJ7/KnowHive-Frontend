@@ -1,1 +1,1 @@
-# KnowHive-Updated-Frontend
+# KnowHive-Frontend
