@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79f14040.css",
+    "main.js": "/static/js/main.45ab5916.js",
+    "static/media/Shriya.png": "/static/media/Shriya.a94566bb092064c50082.png",
+    "static/media/dhanush.png": "/static/media/dhanush.3dafaac03e17233a1cd9.png",
+    "static/media/suhas.png": "/static/media/suhas.376e4bf2df478e4f54f1.png",
+    "static/media/chatBackground.jpg": "/static/media/chatBackground.e3433003e0495e43d209.jpg",
+    "static/media/engineer-removebg-preview.png": "/static/media/engineer-removebg-preview.559d289743fbf475e447.png",
+    "static/media/shrinidhi.png": "/static/media/shrinidhi.3f429746047467376432.png",
+    "static/media/Sufiyan.png": "/static/media/Sufiyan.2b205a9193c9ad754aa5.png",
+    "static/media/knowhiveLogo.png": "/static/media/knowhiveLogo.568f44f8fb0e1526d87f.png",
+    "static/media/Soumyadip.png": "/static/media/Soumyadip.0df6460593ce2ffc82d8.png",
+    "static/media/UserLogo.png": "/static/media/UserLogo.87e26ba2f99709fd2ada.png",
+    "index.html": "/index.html",
+    "main.79f14040.css.map": "/static/css/main.79f14040.css.map",
+    "main.45ab5916.js.map": "/static/js/main.45ab5916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f14040.css",
+    "static/js/main.45ab5916.js"
+  ]
+}

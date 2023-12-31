@@ -40,7 +40,7 @@ function LoginPage() {
   
     if (Object.keys(validationErrors).length === 0) {
     try {
-      const response = await fetch("http://20.198.16.0:8000/login", {
+      const response = await fetch("https://knowhive-ai.centralindia.cloudapp.azure.com/api/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

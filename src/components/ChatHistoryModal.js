@@ -9,20 +9,17 @@ function ChatHistoryModal({ isVisible, onClose }) {
 
   useEffect(() => {
     // Fetch conversation history when the modal is opened
-    console.log("Fetching conversation history...");
 
     if (isVisible) {
       // const storedUser = JSON.parse(localStorage.getItem("user"));
       const token = localStorage.getItem("token");
-      console.log("Token-", token);
       axios
-        .get("http://20.198.16.0:8000/conversation-history", {
+        .get("https://knowhive-ai.centralindia.cloudapp.azure.com/api/conversation-history", {
           headers: {
             Auth: token,
           },
         })
         .then((response) => {
-          console.log("conversation history response", response);
 
           // Check if the response contains 'history' key
           if ("history" in response.data) {
@@ -48,16 +45,10 @@ function ChatHistoryModal({ isVisible, onClose }) {
     }
   }, [isVisible]);
 
-  console.log("Rendering ChatHistoryModal, isAuthenticated:", isAuthenticated);
-
   if (!isVisible || !isAuthenticated) {
-    console.log("Modal not visible or user not authenticated");
     return null;
   }
 
-  console.log(
-    "Modal is visible and user is authenticated. Rendering the modal..."
-  );
 
   const handleClose = (e) => {
     if (e.target.id === "container") {
@@ -126,3 +117,4 @@ function ChatHistoryModal({ isVisible, onClose }) {
 }
 
 export default ChatHistoryModal;
+
