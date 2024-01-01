@@ -1,0 +1,7 @@
+# Ignore node_modules directory
+node_modules/
+
+# Other patterns to exclude large files or directories
+# ...
+
+
