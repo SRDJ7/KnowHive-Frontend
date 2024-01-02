@@ -14,7 +14,7 @@ function ChatHistoryModal({ isVisible, onClose }) {
       // const storedUser = JSON.parse(localStorage.getItem("user"));
       const token = localStorage.getItem("token");
       axios
-        .get("https://knowhive-ai.centralindia.cloudapp.azure.com/api/conversation-history", {
+        .get("https://knowhive.centralindia.cloudapp.azure.com/api/conversation-history", {
           headers: {
             Auth: token,
           },
