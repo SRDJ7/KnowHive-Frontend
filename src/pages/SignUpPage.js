@@ -52,7 +52,7 @@ function SignUpPage() {
       try {
         // Make a POST request to the signup endpoint of your Flask backend
         const response = await axios.post(
-          "https://knowhive-ai.centralindia.cloudapp.azure.com/api/signup",
+          "https://knowhive.centralindia.cloudapp.azure.com/api/signup",
           {
             username,
             password,
