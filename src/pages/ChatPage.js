@@ -123,7 +123,7 @@ function ChatPage() {
 
     try {
       const response = await axios.post(
-        "https://knowhive-ai.centralindia.cloudapp.azure.com/api/ask",
+        "https://knowhive.centralindia.cloudapp.azure.com/api/ask",
         {
           question: text,
         },
