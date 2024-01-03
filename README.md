@@ -44,34 +44,37 @@ To access the KnowHive backend code [Click Here](https://github.com/SRDJ7/KnowHi
 ## Glimpse of KnowHive UI ##
 
 <p align="center">
-<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+<img width="960" alt="Start Page" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
 Display of Start Page
+</p>
+
+
+<p align="center">
+<img width="960" alt="Signup Page" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/19055004-a0df-4054-8bae-9476271655c5">
+Display of Signup Page
 </p>
 
 <p align="center">
-<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
-Display of Start Page
+<img width="960" alt="Login Page" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/408d0deb-2c69-49c4-9f0e-b4ad85e2d3b8">
+Display of Login Page
 </p>
 
 <p align="center">
-<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
-Display of Start Page
+<img width="960" alt="Chat Page" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/09bbcea5-f1c5-4b32-98bf-68d2a67088e2">
+Display of Chat Page
 </p>
 
 <p align="center">
-<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
-Display of Start Page
+<img width="960" alt="chat page with response from GPT Model" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/65860cf3-a962-488c-b43f-249cfa5a2cc3">
+Display of chat page with response from GPT Model
 </p>
 
 <p align="center">
-<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
-Display of Start Page
+<img width="960" alt="Chat Modal" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/21e23f48-f554-4b9e-aca8-1a290e2f66c9">
+Display of Chat Modal
 </p>
 
 <p align="center">
-<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
-Display of Start Page
+<img width="960" alt="Video Modal" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/e37f3677-4cac-47c9-8576-abbe3bb990bf">
+Display of Video Modal
 </p>
-
-
-
