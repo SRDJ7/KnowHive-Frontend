@@ -1,1 +1,2 @@
 # KnowHive-Updated-Frontend
+Welcome to the KnowHive Chat Application repository! This React-based frontend application allows field engineers seeking quick access to accurate and up-to-date knowledge for resolving incidents efficiently and effectively. This web application has been specifically designed to empower field engineers with an intelligent chatbot interface, providing instant assistance and valuable insights to tackle diverse challenges encountered in the field.
