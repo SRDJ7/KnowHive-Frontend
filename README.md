@@ -41,6 +41,20 @@ This will launch the application locally. Open your browser and go to `http://lo
 #### KnowHive Backend Github repository ####
 To access the KnowHive backend code [Click Here](https://github.com/SRDJ7/KnowHive-Backend)
 
+### Frontend Hosting ###
+Our React frontend is hosted on Apache2, a web server, making it accessible to users at `https://knowhive.centralindia.cloudapp.azure.com/`. The deployment involves placing our React files in a designated directory on an Azure Virtual Machine with the following specifications:
+* Operating System: Linux (Ubuntu 22.04)
+* Size: Standard D2as v4 (2 vCPUs, 8 GiB memory)
+* Disk Storage: Premium SSD LRS (30 GiB)
+
+Apache's Virtual Host is set up to point to the React files on this VM, allowing users to access our React app seamlessly.
+
+Let's Encrypt SSL Certificates, obtained through Certbot, enhance security by automating SSL protection for communication between users and Apache2. These certificates automatically renew, ensuring uninterrupted SSL security.
+
+Apache2 serves as a reverse proxy for our backend (Flask API), forwarding user requests while handling SSL encryption. Users securely access our application via HTTPS, while Apache2 communicates with the backend using regular HTTP, simplifying SSL complexities.
+
+Additionally, Apache2 automatically redirects HTTP requests to HTTPS, seamlessly directing users to the secure version of our application at `https://knowhive.centralindia.cloudapp.azure.com/`. This contributes to an overall safer browsing experience on our Azure VM-hosted React frontend.
+
 ## Glimpse of KnowHive UI ##
 
 <p align="center">
