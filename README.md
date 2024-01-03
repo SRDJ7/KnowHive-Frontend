@@ -42,3 +42,36 @@ This will launch the application locally. Open your browser and go to `http://lo
 To access the KnowHive backend code [Click Here](https://github.com/SRDJ7/KnowHive-Backend)
 
 ## Glimpse of KnowHive UI ##
+
+<p align="center">
+<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+Display of Start Page
+</p>
+
+<p align="center">
+<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+Display of Start Page
+</p>
+
+<p align="center">
+<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+Display of Start Page
+</p>
+
+<p align="center">
+<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+Display of Start Page
+</p>
+
+<p align="center">
+<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+Display of Start Page
+</p>
+
+<p align="center">
+<img width="960" alt="1" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
+Display of Start Page
+</p>
+
+
+
