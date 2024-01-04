@@ -1,6 +1,8 @@
 # KnowHive-Frontend
 Welcome to the KnowHive repository! This React-based frontend application allows field engineers seeking quick access to accurate and up-to-date knowledge for resolving incidents efficiently and effectively. This web application has been specifically designed to empower field engineers with an intelligent chatbot interface, providing instant assistance and valuable insights to tackle diverse challenges encountered in the field.
 
+__Check out our website__ [Click here](https://knowhive.centralindia.cloudapp.azure.com/)
+
 ## Key Features ##
 *  __Real-time Chat:__ Engage in instantaneous conversations with the intelligent KnowHive assistant.
 *  __Voice Input:__ Leverage voice recognition to swiftly input questions and receive prompt responses.
@@ -20,7 +22,7 @@ To run the KnowHive assistant Application locally, follow these steps:
 `git clone`
 
 2. Navigate to the project directory:
-`cd knowhive-chat-app`
+`cd KnowHive-Frontend`
 
 3. Install dependencies:
 `npm install`
