@@ -3,7 +3,7 @@ Welcome to the KnowHive repository! This React-based frontend application allows
 
 __Check out our website__ [Click here](https://knowhive.centralindia.cloudapp.azure.com/)
 
-**The Google drive link is attached which has codes , demo videos of our solution and the powerpoint slides of our solution.
+**The Google drive link is attached which has codes, demo videos of our solution and the powerpoint slides of our solution.
 [Click here](https://drive.google.com/drive/folders/1GxjrqQ1Prn4Bpj80lpFwFWH7ImKYbs6w?usp=sharing)
 
 ## Key Features ##
